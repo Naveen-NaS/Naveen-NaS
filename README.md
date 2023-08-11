@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="./Banner.jpg" />
 <h1 align="center">Hi 👋, I'm Naveen Sharma</h1>
 <h3 align="center">A passionate student from India, currently learning Web Development.</h3>
 
