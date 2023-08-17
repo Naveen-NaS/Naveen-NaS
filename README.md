@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="./Banner.jpg" />
+![Banner](https://github.com/Naveen-NaS/Naveen-NaS/assets/141949979/f9fe2a23-d1a3-4e8c-88cb-7203b13f2ce1)
 <h1 align="center">Hi 👋, I'm Naveen Sharma</h1>
 <h3 align="center">A passionate student from India, currently learning Web Development.</h3>
 
