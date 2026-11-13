@@ -1,43 +1,184 @@
-### Hi there 👋
+# Hi 👋, I'm Naveen Sharma
 
-<!--
-**Naveen-NaS/Naveen-NaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Engineer · Full Stack Developer · Builder
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Banner](https://github.com/Naveen-NaS/Naveen-NaS/assets/141949979/f9fe2a23-d1a3-4e8c-88cb-7203b13f2ce1)
-<h1 align="center">Hi 👋, I'm Naveen Sharma</h1>
-<h3 align="center">A passionate student from India, currently learning Web Development.</h3>
-
-<img align="right" alt="coding" width="400" src="https://pamiralpha.com/wp-content/uploads/2019/10/website.gif" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen-nas&label=Profile%20views&color=0e75b6&style=flat" alt="naveen-nas" /> </p>
-
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Python, Java**
-
-- 💬 Ask me about **HTML, CSS, Python, Java**
-
-- 📫 How to reach me **nasharma314@gmail.com**
-
-- ⚡ Fun fact **I'm Spiritual**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/naveen-sharma-871b7a257" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="naveen sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/nsharma.nas?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/modern-badge-logo-instagram-icon_578229-124.jpg" alt="nsharma.nas" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Naveen_NS" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="naveen_ns" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/Naveen-NaS/Naveen-NaS/assets/141949979/f9fe2a23-d1a3-4e8c-88cb-7203b13f2ce1" alt="Naveen Sharma GitHub Banner" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.freepik.com/free-icon/css_318-698167.jpg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.freepik.com/free-icon/html-5_318-698168.jpg?size=626&ext=jpg&ga=GA1.2.1184531726.1692275338&semt=ais" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/naveen-sharma-871b7a257">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Naveen-NaS">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Naveen_NS">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:nasharma314@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=naveen-nas&show_icons=true&locale=en&layout=compact" alt="naveen-nas" /></p>
+---
+
+## 👨‍💻 About Me
+
+I'm an **AI/ML & Full Stack Developer** from India, focused on building intelligent applications, developer tools, and scalable web products.
+
+- 🔭 Building **AI-powered applications and full-stack products**
+- 🤖 Working with **Machine Learning, Deep Learning, LLMs & RAG**
+- 💻 Building production web applications with **Next.js, TypeScript & PostgreSQL**
+- 🧠 Strong foundation in **Python, Java, DSA and ML**
+- ☁️ Experience with **AWS, Vercel, Docker and cloud databases**
+- 🛠️ Interested in **AI Agents, intelligent automation & developer tooling**
+- 📚 Currently deepening my knowledge of **Generative AI, RAG and production ML systems**
+- ⚡ I enjoy turning ideas into working products
+
+> **Build → Learn → Iterate → Ship.**
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,html,css" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
+
+**Python · PyTorch · TensorFlow · scikit-learn · NLP · Deep Learning · LLMs · RAG · AI Agents · Model Evaluation**
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,vite,tailwind" />
+</p>
+
+**Next.js · React · TypeScript · Vite · Tailwind CSS**
+
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,flask,postgres,mongodb,prisma" />
+</p>
+
+**Flask · Node.js · PostgreSQL · MongoDB · Prisma · REST APIs**
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,github" />
+</p>
+
+**AWS · Docker · Vercel · Git · GitHub · CI/CD**
+
+### Tools & Platforms
+
+**Google Gemini API · OpenRouter · Convex · Supabase · MongoDB Atlas · Neon · Selenium · Google Maps API**
+
+---
+
+## 🚀 Featured Projects
+
+### 🧩 BoardSpace
+A collaborative productivity and workspace platform designed around real-time interaction and modern web architecture.
+
+**Stack:** Next.js · TypeScript · React · PostgreSQL · Prisma
+
+---
+
+### 🎓 EduVi
+An AI-powered learning platform exploring conversational learning and intelligent educational assistance.
+
+**Focus:** AI Agents · RAG · LLMs · Voice-based interaction
+
+---
+
+### 🤖 GitGenie
+An AI-powered developer tool built to improve the experience of working with code and repositories.
+
+**Focus:** Generative AI · Developer Tools · LLMs
+
+🏆 **Ranked #1 in IBM SkillsBuild AI Agents Training**
+
+---
+
+### 📊 Metal Price Prediction
+Machine-learning experiments for forecasting historical MCX metal prices including Gold, Silver, Copper, Zinc, Lead, Nickel and Aluminium.
+
+**Focus:** Time Series · LSTM · RNN · Transformers · Regression
+
+---
+
+### 🛒 Shopify Inventory & Forecasting
+Exploring intelligent inventory management for Shopify merchants — including demand forecasting, reorder recommendations and purchase-order workflows.
+
+**Focus:** Forecasting · Retail Analytics · Shopify · ML Pipelines
+
+---
+
+## 🧠 Currently Exploring
+
+```text
+Generative AI
+    ├── RAG Systems
+    ├── AI Agents
+    ├── LLM Application Architecture
+    └── Prompt Engineering
+
+Machine Learning
+    ├── Time-Series Forecasting
+    ├── Model Evaluation
+    ├── Fine-Tuning
+    └── Production ML Pipelines
+
+Full Stack
+    ├── Next.js + TypeScript
+    ├── Scalable Backend Architecture
+    ├── PostgreSQL + Prisma
+    └── Cloud Deployment
+```
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naveen-NaS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-NaS&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-NaS&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I'm interested in **AI/ML, Full Stack Development, AI Agents, developer tools and building useful products**.
+
+If you're working on something interesting, feel free to connect or collaborate.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/naveen-sharma-871b7a257">
+    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nasharma314@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building intelligent systems. Shipping useful products. Learning every day.</i>
+</p>
