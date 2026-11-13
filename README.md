@@ -3,7 +3,7 @@
 ### AI/ML Engineer · Full Stack Developer · Builder
 
 <p align="center">
-  <img src="https://github.com/Naveen-NaS/Naveen-NaS/assets/141949979/f9fe2a23-d1a3-4e8c-88cb-7203b13f2ce1" alt="Naveen Sharma GitHub Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/866f163a-3324-4cd7-ae7b-a5c23e14aee2" alt="Naveen Sharma GitHub Banner" width="100%" />
 </p>
 
 <p align="center">
