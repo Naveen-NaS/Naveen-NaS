@@ -16,7 +16,7 @@
   <a href="https://leetcode.com/Naveen_NS">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="mailto:nasharma314@gmail.com">
+  <a href="mailto:nas.nsharma@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -179,7 +179,7 @@ If you're working on something interesting, feel free to connect or collaborate.
   <a href="https://www.linkedin.com/in/naveen-sharma-871b7a257">
     <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:nasharma314@gmail.com">
+  <a href="mailto:nas.nsharma@gmail.com">
     <img src="https://img.shields.io/badge/Contact_Me-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
