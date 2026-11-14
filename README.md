@@ -148,16 +148,17 @@ Full Stack
 ```
 
 ---
+
 ## 📈 GitHub Stats
 
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Naveen-NaS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    src="https://github-stats-extended.vercel.app/api?username=Naveen-NaS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-NaS&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Naveen-NaS&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
 
@@ -168,7 +169,6 @@ Full Stack
 </p>
 
 ---
-
 ## 📫 Let's Connect
 
 I'm interested in **AI/ML, Full Stack Development, AI Agents, developer tools and building useful products**.
